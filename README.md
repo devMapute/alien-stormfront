@@ -71,7 +71,7 @@ Alien Stormfront is developed in Java, leveraging its robust object-oriented pro
    Clone the game repository to your local machine.
 
    ```sh
-   git clone https://github.com/username/alien-stormfront.git
+   git clone https://github.com/devmapute/alien-stormfront.git
    ```
 
 2. **Build the Project:**  
